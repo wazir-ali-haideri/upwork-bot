@@ -1,0 +1,4 @@
+.streamlit/
+__pycache__/
+*.pdf
+fix_app.py
